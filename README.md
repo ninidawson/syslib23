@@ -1,4 +1,4 @@
 # System Librarianship
-Notes on Syteml Librarianship. 
-Following along with lecture to to practice creating a GitHub Repo
+Notes on Systems Librarianship. 
+Following along with lecture to practice creating a GitHub Repo
 and to use Git on the command line. 
